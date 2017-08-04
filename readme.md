@@ -31,9 +31,9 @@ We are going to implement a "racer game" using JavaScript, HTML and CSS.
 
 #### Starter code
 
-There is no starter code for this project other than one blank HTML, CSS, and JS files located in the code folder of this repo. Here are some tips on how to get started:
+There is no starter code for this project other than blank HTML, JS, and CSS files. Here are some tips on how to get started, nut your process might be different:
 
-- Start simple! Ask yourself what the minimal requirements
+- Start simple! Ask yourself what the minimal requirements are
 - Create HTML and CSS files that create one red square div and one blue, lined up on the left side of the screen
 - Add a keydown event listener that console logs "blue move" or "red move"
 - replace that console log with JavaScript that moves the red or blue div a little to the right
