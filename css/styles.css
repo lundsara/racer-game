@@ -1,0 +1,76 @@
+#player1 {
+  font-family: helvetica;
+  width:100px;
+  height:100px;
+  background-color:cornflowerblue;
+  position:relative;
+  border: solid 6px white;
+  border-radius: 50%;
+}
+
+#player2 {
+  font-family: helvetica;
+  border: solid 6px white;
+  width:100px;
+  height:100px;
+  background-color:peachpuff;
+  position: relative;
+  border-radius: 50%;
+}
+
+#racetrack {
+  width:800px;
+  display: flex;
+  align-items: left;
+  height: 400px;
+  position: absolute;
+  flex-direction: column;
+  justify-content: flex-start;
+  justify-content: space-around;
+  background-color: lavender;
+  border: solid 6px white;
+
+}
+#start {
+border: 6px solid;
+border-radius: 50%;
+font-size: 40px;
+width: 300px;
+height: 150px;
+color: white;
+background-color: pink;
+
+}
+body {
+  background-color: steelblue;
+}
+
+#reset {
+border: 6px solid;
+border-radius: 50%;
+font-size: 40px;
+width: 300px;
+height: 150px;
+color: white;
+background-color: paleturquoise;
+}
+
+#encap {
+  width: 1000px;
+  height: 630px;
+  text-align: center;
+  margin: auto;
+}
+
+#top {
+  width: 800px;
+  height: 200px;
+}
+#winner {
+  color: white;
+  height: 100px;
+  width: 1000px;
+  font-size: 40px;
+  text-align:center;
+  font-family: helvetica;
+}
