@@ -30,6 +30,7 @@ function movePlayer(event) {
     racer2 += 10;
     player2.style.left = racer2 + 'px';
   }
+  declareWinner();
 }
 
 //couldn't get this function to work- played around with querying elements locally and globally
